@@ -1,1 +1,1 @@
-FROM markhuang1212/latex-devcontainer:latest
+FROM ghcr.io/markhuang1212/latex-devcontainer
